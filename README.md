@@ -1,9 +1,7 @@
 <p align = "center">
-<img src="https://github.com/Arsh2k01/UTrack/blob/main/UTrack.jpg" width="650" height="620"> 
+<img src="https://github.com/Nissy15/UTrack/blob/main/UTrack.jpg" width="650" height="620"> 
  </p> 
 <br />
-Project under <a href = "https://github.com/caciitg">Consulting and Analytics Club, IITG</a>
-
 ## 1. Technologies Used
 
 1. Tweepy API
@@ -24,7 +22,7 @@ We explored Transformer models and found that BERT(Bidirectional Encoder Represe
 The output given by the final layer was not fed to any activation function; it was instead given as input to a custom function to normalize and standardize the data. The function is given below: <br />
 <br />
 <p align = "center">
-<img src="https://github.com/Arsh2k01/UTrack/blob/main/function.jpeg" width="600" height="150"> 
+<img src="https://github.com/Nissy15/UTrack/blob/main/function.jpeg" width="600" height="150"> 
  </p> 
  <br />
 
@@ -50,21 +48,11 @@ Then run **`Streamlit Deployment.ipynb`** on Google Colab. Click on the **ngrok*
 
 Once you go to the localhost, use the following video as a reference:
   
-  ![demo video](https://github.com/Arsh2k01/UTrack/blob/main/UTrack_Working.webp)
+  ![demo video](https://github.com/Nissy15/UTrack/blob/main/UTrack_Working.webp)
 
-
-## 5. Team
-* [Arsh Kandroo](https://github.com/Arsh2k01)
-* [Franchis Saikia](https://github.com/Francode007)
-* [Narmin Kauser](https://github.com/narmin24)
-* [Roshan Shaji](https://github.com/roshan-shaji)
-* [Jaswanth Gudiseva](https://github.com/jaswanth-gudiseva)
-* [Atharva Shrawge](https://github.com/haxer-max)
 
 ## 6. References
 * [Bidirectional Encoder Representations from Transformers (BERT): A sentiment analysis odyssey](https://arxiv.org/abs/2007.01127)
 * [Studying expressions of loneliness in individuals using twitter: an observational study](https://bmjopen.bmj.com/content/bmjopen/9/11/e030355.full.pdf)
 * [Understanding and Measuring Psychological Stress Using Social Media](https://static1.squarespace.com/static/53d29678e4b04e06965e9423/t/5ea0bea583b33b7bb006e140/1587592872890/2019UnderstandingStress.pdf)
 
-## 7. License
-[MIT](https://choosealicense.com/licenses/mit/)
